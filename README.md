@@ -3,7 +3,7 @@
 
    
 # Screenshots
-![1](Screenshot_1.png)
-![2](Screenshot_2.png)
-![3](Screenshot_3.png)
-![4](Screenshot_3.png)
+![1](images/Screenshot_1.png)
+![2](images/Screenshot_2.png)
+![3](images/Screenshot_3.png)
+![4](images/Screenshot_3.png)
